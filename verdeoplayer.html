@@ -1,12 +1,18 @@
 <head>
-<title>VerDeoPlayer BETA</title>
+<script type="text/javascript">
+function getHash() {
+  var hash = window.location.hash;
+  var addd = window.location.search;
+  return addd.substring(1)+hash;
+}
+document.write('<title>VerDeoPlayer | Playing video from '+getHash()+'</title>')
+</script>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
   
 <body id="body" oncontextmenu="return false;">
-  
 		
 	<div align="center" class="hide-pc">
       </div>
