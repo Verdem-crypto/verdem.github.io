@@ -183,14 +183,12 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 ## SUPPORT ME
 
-[![BuyMeACoffee](http://verdem-crypto.github.io/buy-me-a-coffee-button.png)](https://www.buymeacoffee.com/Verdem)
+<p><a href="https://www.patreon.com/verdemisonline"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://verdemtv.altervista.org/verhost/st/image/patron1.png" alt="" width="265" height="71" /></a></p>
 
-<link href="https://payrequest.io/assets/button.css" rel="stylesheet">
-<a target="_blank" href="https://payrequest.me/verdemnetwork">
-<button type="submit" class="payrequest-btn">
-<img src="https://payrequest.io/assets/logos/payrequest-logo-white.png">
-</button>
-</a>
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="TPBZB9ZHHT3M8" />
+<input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+</form>
 
 <div id="cd474"></div>
 <script>
