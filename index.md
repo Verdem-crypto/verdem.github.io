@@ -183,12 +183,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 ## SUPPORT ME
 
-<p><a href="https://www.patreon.com/verdemisonline"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://verdemtv.altervista.org/verhost/st/image/patron1.png" alt="" width="265" height="71" /></a></p>
-
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="TPBZB9ZHHT3M8" />
-<input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-</form>
+<p><a href="https://www.patreon.com/verdemisonline"><img src="https://verdemtv.altervista.org/verhost/st/image/patron1.png" alt="" width="265" height="71" /></a></p>
 
 <div id="cd474"></div>
 <script>
@@ -224,7 +219,7 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 ## BADGES
 
-<img src="//ipv6.he.net/certification/create_badge.php?pass_name=verdem&amp;badge=2" style="border: 0; width: 250px; height: 194px" alt="IPv6 Certification Badge for verdem"></img>
+<img src="//ipv6.he.net/certification/create_badge.php?pass_name=verdem&amp;badge=2" style="border: 0; width: 250px; height: 194px" alt="IPv6 Certification Badge for verdem"/>
 
 ## OTHER
 
