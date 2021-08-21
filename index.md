@@ -222,6 +222,10 @@ My adventure in the Internet field began on December 25, 2014, I created my chan
 
 [Instant Gaming](https://www.instant-gaming.com/it/?igr=Verdem)
 
+## BADGES
+
+<img src="//ipv6.he.net/certification/create_badge.php?pass_name=verdem&amp;badge=2" style="border: 0; width: 250px; height: 194px" alt="IPv6 Certification Badge for verdem"></img>
+
 ## OTHER
 
 ### TERMS LEGEND
