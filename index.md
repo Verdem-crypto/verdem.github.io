@@ -1,4 +1,4 @@
-<head>
+<!--<head>
   <meta name="eroads_" content="a2e93e0ec6a4b18623b908c1bb369b4d" />
   <meta name='asg_verification' content='tpxwJRGLFWho7j5rtxjD3qNn'>
 <meta name="hilltopads-site-verification" content="36fd63f5e5a924c19ed8148ae64298562e1be0dd" />
@@ -13,11 +13,6 @@
   <meta name="propeller" content="cbaa0d909a92f01bfb4c4690a97a0056">
   <meta name='dmca-site-verification' content='cmNZcEJyTG9kWUZTYmhZN3BIMWJmRlJoSTE3c0Q2Tm9lbkxRRmRCUG9hWT01' />
   <meta name="purpleads-verification" content="0fcb9669c078331c57c8fb7b">
-  <!-- BEGIN SHAREAHOLIC CODE -->
-<link rel="preload" href="https://cdn.shareaholic.net/assets/pub/shareaholic.js" as="script" />
-<meta name="shareaholic:site_id" content="8ee9c7b39689461c194278e88ed174dc" />
-<script data-cfasync="false" async src="https://cdn.shareaholic.net/assets/pub/shareaholic.js"></script>
-<!-- END SHAREAHOLIC CODE -->
   <script type="text/javascript">
     var vglnk = {key: '08a59963092b3e8883ba86fd7c52c832'};
     (function(d, t) {
@@ -253,3 +248,6 @@ INT= INTERNATIONAL
 ### PAGE TYPE
 
 [RAW Markdown](http://verdem-crypto.github.io/index.md) | [HTML](http://verdem-crypto.github.io/index.html)
+-->
+
+<meta http-equiv="refresh" content="0; URL='http://www.verdem.link/'" />
